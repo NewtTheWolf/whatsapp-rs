@@ -1,0 +1,12 @@
+[package]
+name = "whatsapp"
+version = "0.1.0"
+authors = ["Dominik Spitzli <dominik@spitzli.dev>"]
+edition = "2021"
+description = "A crate for integrating with the WhatsApp Business Cloud API."
+license = "MIT"
+repository = "https://github.com/NewtTheWolf/whatsapp-rs"
+homepage = "https://github.com/NewtTheWolf/whatsapp-rs"
+documentation = "https://github.com/NewtTheWolf/whatsapp-rs"
+keywords = ["whatsapp", "api", "business", "cloud"]
+categories = ["api-bindings", "network-programming"]
